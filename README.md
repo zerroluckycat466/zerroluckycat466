@@ -1,21 +1,33 @@
-# 🎮 Bienvenue sur mon profil GitHub !
+# 🎉 ZeroLuckyCat466
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zerroluckycat466&label=Profile%20Views&color=blue&style=flat)
 
-## 🌟 Moment Forts
-- Développement de jeux 2D avec Unity
-- Création de projets open-source pour la communauté
-- Collaboration sur des projets créatifs et innovants
+## Short Pitch
+Crafting elegant solutions through code.
 
-## 🛠️ Boîte à Outils
-![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=ffffff) ![C#](https://img.shields.io/badge/-C%20Sharp-239120?style=flat&logo=csharp&logoColor=ffffff) ![Godot](https://img.shields.io/badge/-Godot-8C0A00?style=flat&logo=godot&logoColor=ffffff) 
+## Summary
+I am a software developer with experience in various programming languages and frameworks, always eager to learn and tackle new challenges.
 
-## 🌐 Projets En Cours
-Je travaille actuellement sur plusieurs projets passionnants, y compris un jeu de plateforme et un simulateur de ville. N'hésitez pas à jeter un œil à mes dépôts !
+## Focus
+Currently focusing on web development and API integrations, striving to enhance user experiences.
 
-## ✉️ Contactez-moi
+## Toolkit
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-68A063?style=flat&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+
+## Highlights
+- **Open Source Contributions**: Actively contributing to various open-source projects to give back to the community.
+- **Hackathon Winner**: Proud winner of the XYZ Hackathon for an innovative real-time collaboration tool.
+- **Tech Blogger**: Sharing insights and tutorials on modern web technologies through my blog.
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zerroluckycat466&show_icons=true&theme=radical)
+
+## Contact
+Feel free to reach out!
 - [GitHub Profile](https://github.com/zerroluckycat466)
 - [Telegram](https://t.me/zerroluckycat466)
 
-<!--fp:1755006908-1578:zerroluckycat466:game-dev:fr--> 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerroluckycat466&layout=compact&theme=radical" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=zerroluckycat466&show_icons=true&theme=radical" height="130"/></p>
+<sub>id:17550112</sub>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerroluckycat466&layout=compact&theme=gruvbox" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=zerroluckycat466&show_icons=true&theme=gruvbox" height="130"/></p>
+<p><img src="https://streak-stats.demolab.com/?user=zerroluckycat466&theme=gruvbox" height="150"/></p>
