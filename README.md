@@ -1,18 +1,16 @@
-![open-source development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwODZobHVxbHdrbW03MHltZWlqc25tamY1OWJ5N3ZuMjViNGY0aWo2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hp3O8SmKpALO1sQm56/giphy.gif)
-
 # Einführung
-Hallo! Ich bin zerroluckycat466, ein Softwareentwickler mit einem Fokus auf moderne Technologien und agile Entwicklung.
+Hallo! Ich bin zerroluckycat466, ein leidenschaftlicher Entwickler, der gerne neue Technologien erkundet und innovative Projekte umsetzt.
 
 # Fähigkeiten
-- Programmiersprachen: JavaScript, Python, Java
-- Webentwicklung: React, Node.js, HTML/CSS
-- Datenbanken: MySQL, MongoDB
-- Agile Methoden: Scrum, Kanban
+- **Programmiersprachen:** JavaScript, Python, Java
+- **Webentwicklung:** HTML, CSS, React
+- **Datenbanken:** MySQL, MongoDB
+- **Tools:** Git, Docker, VSCode
 
 # Projekte
-- **Projekt A**: Eine Webanwendung zur Verwaltung von Aufgaben.
-- **Projekt B**: Ein Open Source Tool zur Datenanalyse.
+- **Projekt 1:** [Mein tolles Projekt](https://github.com/zerroluckycat466/projekt1) - Eine Webanwendung zur Verwaltung von Aufgaben.
+- **Projekt 2:** [Mein zweites Projekt](https://github.com/zerroluckycat466/projekt2) - Ein Spiel, das mit JavaScript und HTML5 erstellt wurde.
 
 # Kontakte
-- [LinkedIn](https://www.linkedin.com/in/zerroluckycat466)
-- [Twitter](https://twitter.com/zerroluckycat466)
+- **E-Mail:** zerroluckycat466@example.com
+- **LinkedIn:** [Mein LinkedIn-Profil](https://www.linkedin.com/in/zerroluckycat466)
